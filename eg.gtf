@@ -1,0 +1,26 @@
+#!genome-build R64-1-1
+#!genome-version R64-1-1
+#!genome-date 2011-09
+#!genome-build-accession GCA_000146045.2
+#!genebuild-last-updated 2018-10
+II	sgd	gene	411054	413981	.	+	.	gene_id "YBR084W"; gene_source "sgd"; gene_biotype "protein_coding";
+II	sgd	transcript	411054	413981	.	+	.	gene_id "YBR084W"; transcript_id "YBR084W_mRNA"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	exon	411054	413981	.	+	.	gene_id "YBR084W"; transcript_id "YBR084W_mRNA"; exon_number "1"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; exon_id "YBR084W_mRNA-E1";
+II	sgd	CDS	411054	413978	.	+	0	gene_id "YBR084W"; transcript_id "YBR084W_mRNA"; exon_number "1"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; protein_id "YBR084W";
+II	sgd	start_codon	411054	411056	.	+	0	gene_id "YBR084W"; transcript_id "YBR084W_mRNA"; exon_number "1"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	stop_codon	413979	413981	.	+	0	gene_id "YBR084W"; transcript_id "YBR084W_mRNA"; exon_number "1"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	gene	414186	415261	.	-	.	gene_id "YBR084C-A"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding";
+II	sgd	transcript	414186	415261	.	-	.	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	exon	415260	415261	.	-	.	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "1"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; exon_id "YBR084C-A_mRNA-E1";
+II	sgd	CDS	415260	415261	.	-	0	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "1"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; protein_id "YBR084C-A";
+II	sgd	start_codon	415260	415261	.	-	0	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "1"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	start_codon	414753	414753	.	-	1	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "2"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	exon	414186	414753	.	-	.	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "2"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; exon_id "YBR084C-A_mRNA-E2";
+II	sgd	CDS	414189	414753	.	-	1	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "2"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; protein_id "YBR084C-A";
+II	sgd	stop_codon	414186	414188	.	-	0	gene_id "YBR084C-A"; transcript_id "YBR084C-A_mRNA"; exon_number "2"; gene_name "RPL19A"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	gene	415983	416906	.	+	.	gene_id "YBR085W"; gene_name "AAC3"; gene_source "sgd"; gene_biotype "protein_coding";
+II	sgd	transcript	415983	416906	.	+	.	gene_id "YBR085W"; transcript_id "YBR085W_mRNA"; gene_name "AAC3"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	exon	415983	416906	.	+	.	gene_id "YBR085W"; transcript_id "YBR085W_mRNA"; exon_number "1"; gene_name "AAC3"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; exon_id "YBR085W_mRNA-E1";
+II	sgd	CDS	415983	416903	.	+	0	gene_id "YBR085W"; transcript_id "YBR085W_mRNA"; exon_number "1"; gene_name "AAC3"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding"; protein_id "YBR085W";
+II	sgd	start_codon	415983	415985	.	+	0	gene_id "YBR085W"; transcript_id "YBR085W_mRNA"; exon_number "1"; gene_name "AAC3"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
+II	sgd	stop_codon	416904	416906	.	+	0	gene_id "YBR085W"; transcript_id "YBR085W_mRNA"; exon_number "1"; gene_name "AAC3"; gene_source "sgd"; gene_biotype "protein_coding"; transcript_source "sgd"; transcript_biotype "protein_coding";
